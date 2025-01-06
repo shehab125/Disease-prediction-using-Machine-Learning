@@ -71,13 +71,6 @@ The GUI displays the predicted disease based on the input symptoms for each mode
   - Random Forest Prediction: Disease B
   - Naive Bayes Prediction: Disease A
 
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 - Datasets used for training and testing.
 - `scikit-learn` library for machine learning algorithms.
@@ -85,4 +78,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Contact
-For questions or suggestions, please contact [Your Name] at [Your Email].
+For questions or suggestions, please contact shehab hosny at shehabhosny889@gmail.com.
