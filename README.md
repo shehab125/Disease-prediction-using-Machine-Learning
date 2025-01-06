@@ -44,7 +44,7 @@ This project predicts diseases based on symptoms using machine learning classifi
 ## How to Use
 1. **Run the Application**:
    ```bash
-   python disease_predictor.py
+   AI project Disease Predictor.ipynb
    ```
 2. **Select Symptoms**: Use the dropdown menus in the GUI to select up to 5 symptoms.
 3. **Predict Disease**: Click on one of the prediction buttons (Decision Tree, Random Forest, or Naive Bayes) to view the predicted disease.
